@@ -39,8 +39,3 @@ And we obtain the public IP to access our live page.
 The result looks like the following.
 
 ![It works!](./images/it_works.png)
-
-
-Review and Grading:
-
-The given tutorial gave us a good overview of Kubernetes and how to practically use it by utilizing Amazon Elastic Kubernetes Service. Concretely we followed a step-by-step introduction of how to run an NGINX server. We could follow most of the steps without relying on further research or debugging and especially the introduction to Docker and Kubernetes as well as the provided links were very helpful. More details or at least references to helpful tutorials on setting up the CLI could have been helpful. In total, the student lab and was good to follow and we got helpful insights into the topic at hand. We would grade it with a 9/10. We worked on it for around 3h.
